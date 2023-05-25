@@ -70,6 +70,7 @@
       * Window Rules
          * `.config/kwinrulesrc`
       * Task switcher
+         * `.config/kwinrc`
       * KWin scripts
          * `.config/kwinrc`
    * Shortcuts
